@@ -478,7 +478,7 @@ function App() {
                 }
                 alt="Aryan Jhanwar"
                 draggable={false}
-                className="hero-image-base pointer-events-none select-none"
+                className="hero-image-base pointer-events-none select-none outline-none"
               />
 
               {/* COLOR IMAGE */}
@@ -490,7 +490,7 @@ function App() {
                 alt=""
                 aria-hidden="true"
                 draggable={false}
-                className="hero-image-color pointer-events-none select-none"
+                className="hero-image-color pointer-events-none select-none outline-none"
               />
 
               {/* HOVER LIGHT */}
